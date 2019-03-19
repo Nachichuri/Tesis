@@ -1,6 +1,6 @@
 # Tesis
 
-¡Hola! En este repositoio vas a poder encontrar mi Tesis de grado de la Licenciatura en Relaciones Internacionales, presentada el día 4 de diciembre de 2018.
+¡Hola! En este repositorio vas a poder encontrar mi Tesis de grado de la Licenciatura en Relaciones Internacionales, presentada el día 4 de diciembre de 2018, y defendida y aprobada con la máxima calificacion el 15 de marzo de 2019.
 
 La tesis se titula "La influencia de la Seguridad Informática en las Relaciones Internacionales. El rol de las grandes potencias: Estados Unidos, China y Rusia". El título sugiere bastante sobre su contenido, pero tiene el objetivo de analizar la influencia de Internet y el ciberespacio en las relaciones entre Estados, teniendo como eje ordenador a la Seguridad Informática. A partir de la página 3 vas a ver el índice, así que ahí hay más detalle de los temas abordados.
 
